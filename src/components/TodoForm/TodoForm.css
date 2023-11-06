@@ -1,0 +1,8 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+.add-button {
+    margin-left: 1rem;
+}

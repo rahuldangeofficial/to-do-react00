@@ -1,7 +1,8 @@
+import "./Header.css";
 export default function Header() {
-  return (
-    <>
-      <h1>to-do (react)</h1>
-    </>
-  );
+    return (
+        <>
+            <h1 className="title-name">TO-DO List</h1>
+        </>
+    );
 }

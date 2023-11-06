@@ -1,0 +1,11 @@
+.task-container {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.task-name {
+    margin-left: 1rem;
+}
+.action-button {
+    margin-left: 1rem;
+}
